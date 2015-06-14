@@ -6,7 +6,8 @@ Ce cours est une introduction à la théorie de base et la pratique de technique
 **Livre gratuit contant du materiel utile en Anglais (Handbook of Applied Cryptography)**: http://cacr.uwaterloo.ca/hac/
 
 ### Lecture 1: Histoire de la cryptographie
-**20 Juin 2015**
+**20 Juin 2015**  
+
 Reading: HAC 11-20.
 
 ## Chiffrement Symmetrique
@@ -14,13 +15,14 @@ Reading: HAC 11-20.
 ### Lecture 2: Chiffrement de Flux
 **27 Juin 2015**
 * Le "one time pad".
-* La securité semantique.
+* La securité semantique.  
 Reading: HAC 20-21, 191-194.
  
 ### Lecture 3: Chiffrement par Bloc
 **4 Juillet 2015**
 * Etude de cas: Reseaux Feistel, DES, 3DES et AES.
-* Modes d'operation: CBC et mode de compteur.
+* Modes d'operation: CBC et mode de compteur.  
+
 Reading: HAC 233-237, 250-259
  
 ### Lecture 4: Abstractions du Chiffrement par Bloc
@@ -28,7 +30,8 @@ Reading: HAC 233-237, 250-259
 * Permutations pseudo-aléatoires.
 * Fonctions pseudo-aléatoires.
 * Securité contre les attaques du clair choisi (CPA).
-* Chiffrement CBC basé sur les nonces et mode de compteur.
+* Chiffrement CBC basé sur les nonces et mode de compteur.  
+
 Reading: HAC 228-230
  
 ### Lecture 5: Cryptanalyse Differentiele et Linéare
@@ -48,7 +51,8 @@ Reading: HAC 228-230
 **1 Aout 2015**
 * Hachage resistant aux collisions.
 * Merkle-Damgard et Davies-Meyer. MACs basés sur la resistance aux collisions.
-* Etudes de cas: SHA et HMAC (possiblement MD5).
+* Etudes de cas: SHA et HMAC (possiblement MD5).  
+
 Reading: HAC 333-335, 339-341, 348
  
 ### Lecture 8: Chiffrement Authentifié
@@ -94,7 +98,8 @@ Reading: HAC 333-335, 339-341, 348
 **19 Septembre 2015**
 * Protocoles de mots de passe.
 * Protocoles "one time password".
-* Authentification "challenge-response".
+* Authentification "challenge-response".  
+
 Reading: HAC Chapitre 10.
  
 ### Lecture 16: Échange de clés authentifié
