@@ -3,7 +3,7 @@
 
 Ce cours est une introduction à la théorie de base et la pratique de techniques cryptographiques utilisées dans la sécurité informatique. Nous allons couvrir des sujets tels que le cryptage (clé secrète et à clé publique), l'intégrité des messages, signatures numériques, l'authentification des utilisateurs, la gestion des clés, hachage cryptographique, protocoles de sécurité de réseau (SSL, IPSec), l'infrastructure à clé publique, la gestion des droits numériques, et un peu de sujets plus avancés.
 
-**Livre gratuit contant du materiel utile en Anglais**: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+**Livre gratuit contenant du matériel utile en Anglais**: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 
 ### Lecture 1: Histoire de la cryptographie
 **20 Juin 2015**  
