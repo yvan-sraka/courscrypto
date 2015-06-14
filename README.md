@@ -1,6 +1,10 @@
 # Introduction a la Cryptographie
 
-Après une manifestation d'intérêt sur le sujet, j'organize un cours d'introduction a la cryptographie théorique au Loop! Ce cours se divisera en 18 lectures, une par semaine, et sera basé sur le cours de cryptographie instruit par le Professeur Dan Boneh a Stanford University, dont j'ai assisté déjà. Le cours commence le **20 Juin 2015**, et se deroule chaque Samedi midi au Loop.
+Après une manifestation d'intérêt sur le sujet, j'organize un cours d'introduction a la cryptographie théorique au Loop!
+
+Ce cours est une introduction à la théorie de base et la pratique de techniques cryptographiques utilisées dans la sécurité informatique. Nous allons couvrir des sujets tels que le cryptage (clé secrète et à clé publique), l'intégrité des messages, signatures numériques, l'authentification des utilisateurs, la gestion des clés, hachage cryptographique, protocoles de sécurité de réseau (SSL, IPSec), l'infrastructure à clé publique, la gestion des droits numériques, et un peu de sujets plus avancés.
+
+Le cours se divisera en 18 lectures, une par semaine, et sera basé sur le cours de cryptographie instruit par le Professeur Dan Boneh a Stanford University, dont j'ai assisté déjà. Le cours commence le **20 Juin 2015**, et se deroule chaque Samedi midi au Loop.
 
 ## Informations importantes:
 * Il y aura une lecture chaque Samedi midi (12h00) au Loop, qui durera une heure.
