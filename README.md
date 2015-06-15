@@ -8,7 +8,8 @@ Le cours se divisera en 18 lectures, une par semaine, et sera basé sur le cours
 
 ## Informations importantes:
 * Il y aura une lecture chaque Samedi midi (12h00) au Loop, qui durera une heure.
-* Les lectures viendront avec des devoirs et des travaux pratiques, qui seront corrigés.
+* Les lectures viendront avec des devoirs et des travaux pratiques, qui seront corrigés (mais vous n’êtes pas obligé a les faire!).
+* Miam miam gratuit pour tout le monde qui participe! Pour avoir de l’énergie et se concentrer :-)
 * Les cours sont gratuits, mais vous auriez besoin d'un ordinateur.
 
 Les cours sont parfaits pour les débutants avec des connaissances basiques d'informatique et de programmation. Cependant, ils comprendront des matériaux impliquant les mathématiques et l'informatique, et chaque lecture sera basée sur les matériaux de cours précédents. Parce que l'organisation de ce cours est un effort exigeant, vous êtes priés de participer que si vous êtes prêt à prendre un engagement sérieux au matériel.
