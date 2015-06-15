@@ -1,5 +1,7 @@
-# Introduction a la Cryptographie :key:
+# Introduction a la Cryptographie
 **Chaque Samedi a 12h00, au Loop (20 rue de Reuilly, 75012 Paris)**
+
+:key::key::key::key::key::key::key::key::key::key::key::key::key::key:
 
 Ce cours est une introduction à la théorie de base et la pratique de techniques cryptographiques utilisées dans la sécurité informatique. Nous allons couvrir des sujets tels que le chiffrement (clé secrète et à clé publique), l'intégrité des messages, signatures numériques, l'authentification des utilisateurs, la gestion des clés, hachage cryptographique, protocoles de sécurité de réseau (SSL, IPSec), l'infrastructure à clé publique, la gestion des droits numériques, et un peu de sujets plus avancés.
 
