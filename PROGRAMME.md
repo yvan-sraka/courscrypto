@@ -39,7 +39,7 @@ Reading: HAC 228-230
 **18 Juillet 2015**
 * Recherche exhaustif, compromis temps-espace.
 * Attaque "meet in the middle".
-* Attaques sur le canal latéral.
+* Attaques sur canaux latéraux.
 
 ## Integrité Cryptographique
  
@@ -51,7 +51,8 @@ Reading: HAC 228-230
 ### Lecture 7: Hachage Cryptographique
 **1 Aout 2015**
 * Hachage resistant aux collisions.
-* Merkle-Damgard et Davies-Meyer. MACs basés sur la resistance aux collisions.
+* Protocoles Merkle-Damgard et Davies-Meyer.
+* MACs basés sur la resistance aux collisions.
 * Etudes de cas: SHA et HMAC (possiblement MD5).  
 
 Reading: HAC 333-335, 339-341, 348
@@ -113,3 +114,4 @@ Reading: HAC Chapitre 10.
 
 ### Lecture 18: Sujets Avancés
 **17 Octobre 2015**
+* Proposez vos propres sujets pour discuter!
