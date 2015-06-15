@@ -1,16 +1,18 @@
-# Introduction a la Cryptographie
+# Introduction a la Cryptographie :key:
 **Chaque Samedi a 12h00, au Loop (20 rue de Reuilly, 75012 Paris)**
 
 Ce cours est une introduction à la théorie de base et la pratique de techniques cryptographiques utilisées dans la sécurité informatique. Nous allons couvrir des sujets tels que le chiffrement (clé secrète et à clé publique), l'intégrité des messages, signatures numériques, l'authentification des utilisateurs, la gestion des clés, hachage cryptographique, protocoles de sécurité de réseau (SSL, IPSec), l'infrastructure à clé publique, la gestion des droits numériques, et un peu de sujets plus avancés.
 
 **Livre gratuit contenant du matériel utile en Anglais**: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 
+## Partie 0: Culture
+
 ### Lecture 1: Histoire de la cryptographie
 **20 Juin 2015**  
 
 Reading: HAC 11-20.
 
-## Chiffrement Symmetrique
+## Partie 1: Chiffrement Symmetrique
  
 ### Lecture 2: Chiffrement de Flux
 **27 Juin 2015**
@@ -61,7 +63,7 @@ Reading: HAC 333-335, 339-341, 348
 **8 Aout 2015**
 * Securité contre l'attaquant actif vs. attaquant passif.
 
-## Chiffrement Asymmetrique
+## Partie 2: Chiffrement Asymmetrique
  
 ### Lecture 9: Arithmetique Modulaire sur Nombres Premiers
 **15 Aout 2015**
@@ -84,7 +86,7 @@ Reading: HAC 333-335, 339-341, 348
 * Fonctions RSA et Rabin.
 * Permutations "trapdoor".
 
-## Signatures Cryptographiques
+## Partie 3: Signatures Cryptographiques
  
 ### Lecture 13: Signatures Cryptographiques: Definitions et Applications
 **12 Septembre 2015**
@@ -95,7 +97,7 @@ Reading: HAC 333-335, 339-341, 348
 * Schemas de Lamport and Merkle.
 * Certificats et gestion de la confiance.
 
-## Sujets Finaux
+## Partie 4: Sujets Finaux
  
 ### Lecture 15: Protocoles d'Identification
 **26 Septembre 2015**
