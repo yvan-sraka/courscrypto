@@ -1,4 +1,4 @@
-# Introduction a la Cryptographie
+# Introduction à la Cryptographie
 **Chaque Samedi a 12h00, au Loop (20 rue de Reuilly, 75012 Paris)**
 
 :key::key::key::key::key::key::key::key::key::key::key::key::key::key:
