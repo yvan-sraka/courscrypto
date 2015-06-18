@@ -1,4 +1,4 @@
-# Introduction a la Cryptographie
+# Introduction à la Cryptographie
 
 Après une manifestation d'intérêt sur le sujet, j'organise un cours d'introduction a la cryptographie théorique au Loop!
 
