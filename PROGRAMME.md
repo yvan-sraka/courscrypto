@@ -45,7 +45,7 @@ Reading: HAC 228-230
 **18 Juillet 2015**
 * Recherche exhaustif, compromis temps-espace.
 * Attaque "meet in the middle".
-* Attaques sur canaux latéraux.
+* Attaques sur les "side channels" (canaux latéraux).
 
 ## Intégrité Cryptographique
  
