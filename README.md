@@ -16,8 +16,10 @@ Les cours sont parfaits pour les débutants avec des connaissances basiques d'in
 
 ## Navigation
 * `PROGRAMME.md`: Programme du cours avec dates et autres infos importantes.
+* `slides`: Les slides PowerPoint de chaque session.
 * `devoirs`: Les devoirs pour chaque cours.
 * `projets`: Projets des participants.
+* [**Discutez les sessions avec les autres participants**](https://github.com/kaepora/courscrypto/issues/) sur le forum en-ligne du cours.
 
 ## Contact
 `nadim@nadim.computer`
