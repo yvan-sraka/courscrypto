@@ -22,5 +22,5 @@ Le cours se divisera en 18 sessions, une par semaine, et sera basé sur le cours
 Les cours sont parfaits pour les débutants avec des connaissances basiques d'informatique et de programmation. Cependant, ils comprendront des matériaux impliquant les mathématiques et l'informatique, et chaque session sera basée sur les matériaux de cours précédents. Parce que l'organisation de ce cours est un effort exigeant, vous êtes priés de participer que si vous êtes prêt à prendre un engagement sérieux au matériel.
 
 ## Contact
-Pour toutes questions, veuillez contacter Nadim Kobeissi, l'organisateur de cet evenement.  
-Addresse mail: `nadim@nadim.computer`
+Pour toutes questions, veuillez contacter Nadim Kobeissi, l'organisateur de cet évènement.  
+Adresse mail: `nadim@nadim.computer`
