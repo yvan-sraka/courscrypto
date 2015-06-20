@@ -25,6 +25,6 @@ Un événement `A` a une probabilité de `0.25`, et un événement `B` de `0.55`
 * Quelle est la probabilité de l'événement q'un element sélectionné uniformément de cet univers finit avec les nombres "101"?
 
 ### Question 4
-Quel est le produit XOR de 01011010 ⊕ 11010010?
+Quel est le resultat XOR de 01011010 ⊕ 11010010?
 
 
