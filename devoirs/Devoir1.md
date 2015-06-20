@@ -8,7 +8,7 @@ Envoyez vos réponses par mail a `nadim@nadim.computer` avant Vendredi soir!
 Obtenez le message clair de ce chiffrement par substitution:  
 `DVJ HGIMJ JNBM MXVJ WUZBNBJ, JLXMNLM DVLXJ NXVUDDVJ.`
 
-Obtenez le message clair de ce chiffrement par méthode Cesar:
+Obtenez le message clair de ce chiffrement par méthode Cesar:  
 `PLDRX PLDRX OHV FKDWV VRQW SOHLQV GH FDOLQV`
 
 Astuce: Les message clairs sont en Français.
