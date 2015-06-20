@@ -12,28 +12,28 @@ Ce cours est une introduction à la théorie de base et la pratique de technique
 ## Partie 0: Culture
 
 ### Session 1: Histoire de la cryptographie
-**20 Juin 2015**  
+**20 Juin 2015, 12h00**  
 
 Reading: HAC 11-20.
 
 ## Partie 1: Chiffrement Symétrique
  
 ### Session 2: Chiffrement de Flux
-**27 Juin 2015**
+**27 Juin 2015, 12h00**
 * Le "one time pad".
 * La sécurité sémantique.  
 
 Reading: HAC 20-21, 191-194.
  
 ### Session 3: Chiffrement par Bloc
-**4 Juillet 2015**
+**4 Juillet 2015, <span style="color:red">14h00!!</span>**
 * Etude de cas: Réseaux Feistel, DES, 3DES et AES.
 * Modes d'operation: CBC et mode de compteur.  
 
 Reading: HAC 233-237, 250-259
  
 ### Session 4: Abstractions du Chiffrement par Bloc
-**11 Juillet 2015**
+**11 Juillet 2015, <span style="color:red">14h00!!</span>**
 * Permutations pseudo-aléatoires.
 * Fonctions pseudo-aléatoires.
 * Sécurité contre les attaques du clair choisi (CPA).
@@ -42,7 +42,7 @@ Reading: HAC 233-237, 250-259
 Reading: HAC 228-230
  
 ### Session 5: Cryptanalyse Différentielle et Linéaire
-**18 Juillet 2015**
+**18 Juillet 2015, 12h00**
 * Recherche exhaustif, compromis temps-espace.
 * Attaque "meet in the middle".
 * Attaques sur les "side channels" (canaux latéraux).

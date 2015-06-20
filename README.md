@@ -14,7 +14,7 @@ Le cours se divisera en 18 sessions, une par semaine, et sera basé sur le cours
 * [**Discutez les sessions avec les autres participants**](https://github.com/kaepora/courscrypto/issues/) sur le forum en-ligne du cours.
 
 ## Informations importantes:
-* Il y aura une session chaque Samedi midi (12h00) au Loop, qui durera une heure.
+* Il y aura une session chaque Samedi (generalement a midi, mais verifiez dans le programme) au Loop, qui durera une heure.
 * Les sessions viendront avec des devoirs et des travaux pratiques, qui seront corrigés (mais vous n’êtes pas obligé a les faire!).
 * Miam miam gratuit pour tout le monde qui participe! Pour avoir de l’énergie et se concentrer :-)
 * Les cours sont gratuits, mais vous auriez besoin d'un ordinateur.
