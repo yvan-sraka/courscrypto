@@ -17,7 +17,7 @@ Astuce: Les message clairs sont en Français.
 Un événement `A` a une probabilité de `0.25`, et un événement `B` de `0.55`.  
 
 * Quelle est la probabilité maximale de l'union de A et B?  
-* Quelle est la probabilité de A *et* B?
+* Quelle est la probabilité de A *et* B, sachant qu'ils sont independants?
 
 ### Question 3
 
