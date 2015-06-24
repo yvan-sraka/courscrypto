@@ -26,14 +26,14 @@ Reading: HAC 11-20.
 Reading: HAC 20-21, 191-194.
  
 ### Session 3: Chiffrement par Bloc
-**4 Juillet 2015, :warning: 14h00 :warning:**
+**4 Juillet 2015, :warning: 13h00 :warning:**
 * Etude de cas: Réseaux Feistel, DES, 3DES et AES.
 * Modes d'operation: CBC et mode de compteur.  
 
 Reading: HAC 233-237, 250-259
  
 ### Session 4: Abstractions du Chiffrement par Bloc
-**11 Juillet 2015, :warning: 14h00 :warning:**
+**11 Juillet 2015, :warning: 13h00 :warning:**
 * Permutations pseudo-aléatoires.
 * Fonctions pseudo-aléatoires.
 * Sécurité contre les attaques du clair choisi (CPA).
