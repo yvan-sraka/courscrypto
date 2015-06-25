@@ -11,6 +11,7 @@ Le cours se divisera en 18 sessions, une par semaine, et sera basé sur le cours
 * [`slides`](https://github.com/kaepora/courscrypto/tree/master/slides): Les slides PowerPoint de chaque session.
 * [`devoirs`](https://github.com/kaepora/courscrypto/tree/master/devoirs): Les devoirs pour chaque cours.
 * [`projets`](https://github.com/kaepora/courscrypto/tree/master/projets): Projets des participants.
+* [`Videos`](http://courscrypto.org): Enregistrement de chaque session par des volontaires.
 * [**Discutez les sessions avec les autres participants**](https://github.com/kaepora/courscrypto/issues/) sur le forum en-ligne du cours.
 
 ## Informations importantes:
