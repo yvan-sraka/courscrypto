@@ -44,22 +44,23 @@ Pr(A et B) = Pr(A) * Pr(B) = 0.25 * 0.55 = 0.1375
 QUESTION 3
 ----------
 
-1. U = {0,1}^16
-   card U = 2^16 = 65536
+1. U = {0,1}<sup>16</sup>
+   card U = 2<sup>16</sup> = 65536
 
 2. A = { LSB3(x) = 101 } ⊆ U
    En raisonnant par dichotomie : la moitié des séquences de U finissent par 1, 
    la moitié des séquences qui finissent par 1 finissent par 01, et la moitié des 
    séquences qui finissent par 01 finissent par 101 :
-   card A = card U / 2 / 2 / 2  = 8192 = 2^13
+   card A = card U / 2 / 2 / 2  = 8192 = 2<sup>13</sup>
    Parce que la distribution des probabilités est uniforme sur U :
-   Pr[A] = card A / card U = 2^13 / 2^16 = 1/8 = 0.125 = 12.5%
+   Pr[A] = card A / card U = 2<sup>13</sup> / 2<sup>16</sup> = 1/8 = 0.125 = 12.5%
 
 
 QUESTION 4
 ----------
-
-    01011010 
+```
+    01011010
 XOR 11010010
     --------
     10001000
+```
