@@ -1,4 +1,4 @@
-# Introduction à la Cryptographie
+Introduction à la Cryptographie
 ## Travail Pratique 1: Chiffrement de Flux
 
 Voici sept textes chiffrés avec un chiffrement de flux en utilisant la même clé. Trouvez le message clair de *un* de ces textes chiffrés (vous pouvez choisir lequel vous voulez.) Il est désormais possible de craquer le chiffrement de tous les messages.
@@ -16,3 +16,4 @@ Les textes chiffrées sont représentés en hexadécimal.
 Astuce: Les messages clairs sont tous en Français.
 
 Envoyez vos réponses a nadim@nadim.computer avant le Vendredi soir!
+
