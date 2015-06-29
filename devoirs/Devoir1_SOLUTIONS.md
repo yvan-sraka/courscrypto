@@ -32,12 +32,14 @@ QUESTION 1
 
 QUESTION 2
 ----------
-
-Pr(A) = 0.25
-Pr(B) = 0.55
-Pr(A ou B) <= Pr(A) + Pr(B)
-           <= 0.25  + 0.55
+```
+Pr(A) = 0.25  
+Pr(B) = 0.55  
+Pr(A ou B) <= Pr(A) + Pr(B)  
+           <= 0.25  + 0.55  
            <= 0.80
+```
+
 Pr(A et B) = Pr(A) * Pr(B) = 0.25 * 0.55 = 0.1375
 
 
