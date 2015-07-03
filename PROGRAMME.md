@@ -27,8 +27,9 @@ Reading: HAC 20-21, 191-194.
  
 ### Session 3: Chiffrement par Bloc
 **4 Juillet 2015, :warning: 13h00 :warning:**
+* Introduction au chiffrement par bloc.
 * Etude de cas: Réseaux Feistel, DES, 3DES et AES.
-* Modes d'operation: CBC et mode de compteur.  
+* Quelques attaques sur les chiffrements par bloc.
 
 Reading: HAC 233-237, 250-259
  
@@ -37,7 +38,7 @@ Reading: HAC 233-237, 250-259
 * Permutations pseudo-aléatoires.
 * Fonctions pseudo-aléatoires.
 * Sécurité contre les attaques du clair choisi (CPA).
-* Chiffrement CBC basé sur les nonces et mode de compteur.  
+* Modes d'operation: CBC et mode de compteur.  
 
 Reading: HAC 228-230
  
