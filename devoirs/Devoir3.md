@@ -3,11 +3,12 @@
 
 ### Question 1
 Considérez les cinq événements suivantes:
-1. Deviner correctement une clé de 128 bits AES sur le premier essai.
-1. Gagner une loterie avec 1 million de participants (la probabilité est 1/10<sup>6</sup>).
-1. Gagner une loterie avec 1 million de participants 5 fois de suite (la probabilité est (1/10<sup>6</sup>)<sup>5</sup>).
-1. Gagner une loterie avec 1 million de participants 6 fois dans de suite.
-1. Gagner une loterie avec 1 million de participants 7 fois dans de suite.
+
+1. Deviner correctement une clé de 128 bits AES sur le premier essai.  
+1. Gagner une loterie avec 1 million de participants (la probabilité est 1/10<sup>6</sup>).  
+1. Gagner une loterie avec 1 million de participants 5 fois de suite (la probabilité est (1/10<sup>6</sup>)<sup>5</sup>).  
+1. Gagner une loterie avec 1 million de participants 6 fois dans de suite.  
+1. Gagner une loterie avec 1 million de participants 7 fois dans de suite.  
 
 Quel est l'ordre de ces événements du plus probable au moins probable?
 
