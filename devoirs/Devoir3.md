@@ -20,7 +20,7 @@ Sachant que F:{0,1}<sup>n</sup> × {0,1}<sup>n</sup> → {0,1}<sup>n</sup> est u
 * G(k, x) = F(k, x) ⨁ F(k, x ⊕ 1<sup>n</sup>)
 * G((k<sub>1</sub>, k<sub>2</sub>), x) = F(k<sub>1</sub>, x) ⨁ F(k<sub>2</sub>, x)
 * G(k, x) = k ⨁ x
-* G(k, x) = F(k, x){0,…,n−2} (ce qui veut dire que G(k, x) laisse tomber le dernier bit de F(k, x))
+* G(k, x) = F(k, x)<sub>{0,…,n−2}</sub> (ce qui veut dire que G(k, x) laisse tomber le dernier bit de F(k, x))
 
 ### Question 4
 Souvenez-vous que le théorème de Luby-Rackoff discuté dans cette session indique que l'application d'un réseau de Feistel de **trois** étapes à une fonction pseudo-aléatoire sûre donne chiffrement par bloc sur. Voyons ce qui va mal si nous utilisons un réseau Feistel avec seulement **deux** étapes. Soit F: K × {0,1}<sup>32</sup> → {0,1}<sup>32</sup> est une fonction pseudo-aléatoire sûre.
