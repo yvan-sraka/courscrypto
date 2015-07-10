@@ -87,7 +87,7 @@ Reading: HAC 333-335, 339-341, 348
 
 ## Partie 4: Autres Applications Cryptographiques
 
-### Session 12: Signatures Cryptographiques: Definitions et Applications
+### Session 12: Signatures Cryptographiques
 **10 Octobre 2015**
 * Signatures avec RSA.
 
