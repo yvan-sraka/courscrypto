@@ -28,35 +28,29 @@ Reading: HAC 20-21, 191-194.
 ### Session 3: Chiffrement par Bloc
 **4 Juillet 2015, :warning: 13h00 :warning:**
 * Introduction au chiffrement par bloc.
+* Permutations et fonctions pseudo-aléatoires.
 * Etude de cas: Réseaux Feistel, DES, 3DES et AES.
-* Quelques attaques sur les chiffrements par bloc.
+* Recherche exhaustive, attaques sur les canaux latéraux.
+* Attaque "meet in the middle" sur Double-DES.
 
-Reading: HAC 233-237, 250-259
+Reading: HAC 233-237, 250-25
  
-### Session 4: Abstractions du Chiffrement par Bloc
+### Session 4: Chiffrement par Bloc: Utilisation et Analyse
 **11 Juillet 2015, :warning: 13h00 :warning:**
-* Permutations pseudo-aléatoires.
-* Fonctions pseudo-aléatoires.
-* Sécurité contre les attaques du clair choisi (CPA).
-* Modes d'operation: CBC et mode de compteur.  
+* Modes d'operation: ECB, CBC, CTR.
+* Sécurité contre les attaques avec un clair choisi (CPA).
+* Cryptanalyse différentielle et linéaire.
+* Attaques quantum.
 
-Reading: HAC 228-230
+## Partie 2: Intégrité Cryptographique
  
-### Session 5: Cryptanalyse Différentielle et Linéaire
-**18 Juillet 2015, 12h00**
-* Recherche exhaustif, compromis temps-espace.
-* Attaque "meet in the middle".
-* Attaques sur les "side channels" (canaux latéraux).
-
-## Intégrité Cryptographique
- 
-### Session 6: Intégrité Cryptographique
-**25 Juillet 2015**
+### Session 5: Intégrité Cryptographique
+**22 Aout 2015**
 * Intégrité des messages: definitions et applications.
 * CBC-MAC et PMAC.
  
-### Session 7: Hachage Cryptographique
-**1 Aout 2015**
+### Session 6: Hachage Cryptographique
+**29 Aout 2015**
 * Hachage resistant aux collisions.
 * Protocoles Merkle-Damgard et Davies-Meyer.
 * MACs basés sur la resistance aux collisions.
@@ -64,62 +58,55 @@ Reading: HAC 228-230
 
 Reading: HAC 333-335, 339-341, 348
  
-### Session 8: Chiffrement Authentifié
-**8 Aout 2015**
+### Session 7: Chiffrement Authentifié
+**5 Septembre 2015**
 * Sécurité contre l'attaquant actif vs. attaquant passif.
 
-## Partie 2: Chiffrement Asymétrique
+## Partie 3: Chiffrement Asymétrique
  
-### Session 9: Arithmétique Modulaire sur Nombres Premiers
-**15 Aout 2015**
+### Session 8: Arithmétique Modulaire sur Nombres Premiers
+**12 Septembre 2015**
 
-### Session 10: Cryptographie en Arithmétique Modulaire
-**22 Aout 2015**
+### Session 9: Cryptographie en Arithmétique Modulaire
+**19 Septembre 2015**
 * Arithmétique modulaire et nombres premiers.
 * Protocole Diffie-Hellman.
 * Hypothèse de calcul Diffie-Hellman.
 * Hypothèse décisionnel Diffie-Hellman.
  
-### Session 11: Chiffrement à clé publique
-**29 Aout 2015**
+### Session 10: Chiffrement à clé publique
+**26 Septembre 2015**
 * Protocole ElGamal.
 * Notion de sécurité CCA ("Chosen Ciphertext Attack")
  
-### Session 12: RSA
-**5 Septembre 2015**
+### Session 11: RSA
+**3 Octobre 2015**
 * Arithmétique modulo composites.
 * Fonctions RSA et Rabin.
 * Permutations "trapdoor".
 
-## Partie 3: Signatures Cryptographiques
- 
-### Session 13: Signatures Cryptographiques: Definitions et Applications
-**12 Septembre 2015**
+## Partie 4: Autres Applications Cryptographiques
+
+### Session 12: Signatures Cryptographiques: Definitions et Applications
+**10 Octobre 2015**
 * Signatures avec RSA.
 
-### Session 14: Autres Schemas de Signature
-**19 Septembre 2015**
-* Schemas de Lamport and Merkle.
-* Certificats et gestion de la confiance.
-
-## Partie 4: Sujets Finaux
- 
-### Session 15: Protocoles d'Identification
-**26 Septembre 2015**
+### Session 13: Protocoles d'Identification
+**17 Octobre 2015**
 * Protocoles de mots de passe.
 * Protocoles "one time password".
 * Authentification "challenge-response".  
 
 Reading: HAC Chapitre 10.
  
-### Session 16: Échange de clés authentifié
-**3 Octobre 2015**
+### Session 14: Échange de Clés Authentifié
+**24 Octobre 2015**
 * Initialisation de sessions TLS/SSL.
  
-### Session 17: Protocoles Zero-Knowledge
-**10 Octobre 2015**
+### Session 15: Protocoles Zero-Knowledge
+**31 Octobre 2015**
 
-### Session 18: Sujets Avancés
-**17 Octobre 2015**
+### Session 16: Sujets Avancés
+**7 Novembre 2015**
 * Proposez vos propres sujets pour discuter!
 
