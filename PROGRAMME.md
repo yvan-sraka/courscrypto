@@ -38,9 +38,9 @@ Reading: HAC 233-237, 250-25
 ### Session 4: Chiffrement par Bloc: Utilisation et Analyse
 **11 Juillet 2015, :warning: 13h00 :warning:**
 * Modes d'operation: ECB, CBC, CTR.
-* Sécurité contre les attaques avec un clair choisi (CPA).
 * Cryptanalyse différentielle et linéaire.
 * Attaques quantum.
+* Sécurité contre les attaques avec un clair choisi (CPA).
 
 ## Partie 2: Intégrité Cryptographique
  
