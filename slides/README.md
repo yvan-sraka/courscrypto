@@ -1,6 +1,9 @@
 # Introduction à la Cryptographie
 ## Slides
 
+#### Session 4: Chiffrement par Bloc: Utilisation et Analyse: [`Session4.pdf`](https://github.com/kaepora/courscrypto/blob/master/slides/Session4.pdf)
+**[Discussion de la Session](https://github.com/kaepora/courscrypto/issues/7)**
+
 #### Session 3: Chiffrement par Bloc: [`Session3.pdf`](https://github.com/kaepora/courscrypto/blob/master/slides/Session3.pdf)
 **[Discussion de la Session](https://github.com/kaepora/courscrypto/issues/6)**
 
