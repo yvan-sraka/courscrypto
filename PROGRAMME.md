@@ -45,12 +45,10 @@ Reading: HAC 233-237, 250-25
 ## Partie 3: Intégrité Cryptographique
  
 ### Session 5: Intégrité Cryptographique
-**22 Aout 2015**
 * Intégrité des messages: definitions et applications.
 * CBC-MAC et PMAC.
  
 ### Session 6: Hachage Cryptographique
-**29 Aout 2015**
 * Hachage resistant aux collisions.
 * Protocoles Merkle-Damgard et Davies-Meyer.
 * MACs basés sur la resistance aux collisions.
@@ -59,28 +57,23 @@ Reading: HAC 233-237, 250-25
 Reading: HAC 333-335, 339-341, 348
  
 ### Session 7: Chiffrement Authentifié
-**5 Septembre 2015**
 * Sécurité contre l'attaquant actif vs. attaquant passif.
 
 ## Partie 3: Chiffrement Asymétrique
  
 ### Session 8: Arithmétique Modulaire sur Nombres Premiers
-**12 Septembre 2015**
 
 ### Session 9: Cryptographie en Arithmétique Modulaire
-**19 Septembre 2015**
 * Arithmétique modulaire et nombres premiers.
 * Protocole Diffie-Hellman.
 * Hypothèse de calcul Diffie-Hellman.
 * Hypothèse décisionnel Diffie-Hellman.
  
 ### Session 10: Chiffrement à clé publique
-**26 Septembre 2015**
 * Protocole ElGamal.
 * Notion de sécurité CCA ("Chosen Ciphertext Attack")
  
 ### Session 11: RSA
-**3 Octobre 2015**
 * Arithmétique modulo composites.
 * Fonctions RSA et Rabin.
 * Permutations "trapdoor".
@@ -88,11 +81,9 @@ Reading: HAC 333-335, 339-341, 348
 ## Partie 4: Autres Applications Cryptographiques
 
 ### Session 12: Signatures Cryptographiques
-**10 Octobre 2015**
 * Signatures avec RSA.
 
 ### Session 13: Protocoles d'Identification
-**17 Octobre 2015**
 * Protocoles de mots de passe.
 * Protocoles "one time password".
 * Authentification "challenge-response".  
@@ -100,13 +91,10 @@ Reading: HAC 333-335, 339-341, 348
 Reading: HAC Chapitre 10.
  
 ### Session 14: Échange de Clés Authentifié
-**24 Octobre 2015**
 * Initialisation de sessions TLS/SSL.
  
 ### Session 15: Protocoles Zero-Knowledge
-**31 Octobre 2015**
 
 ### Session 16: Sujets Avancés
-**7 Novembre 2015**
 * Proposez vos propres sujets pour discuter!
 
